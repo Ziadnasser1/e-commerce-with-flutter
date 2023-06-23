@@ -1,7 +1,7 @@
 # e-commerce-with-flutter
 Simple E-Commerce Mobile Application Using flutter
 
-![OverView Screen](e_commerce%20screenshots/overView.png)
+![OverView Screen](e_commerce%20screenshots/overView.jpg)
 ![Chart Screen](e_commerce%20screenshots/chart.jpg)
 ![Kids CategoryList Screen](e_commerce%20screenshots/categoryList.jpg)
 ![SideDrawer](e_commerce%20screenshots/sideDrawer.jpg)
