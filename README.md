@@ -1,7 +1,10 @@
 # e-commerce-with-flutter
 Simple E-Commerce Mobile Application Using flutter
 
-<img src="e_commerce%20screenshots/overView.png" width="200">
+<div align="center">
+  <img src="e_commerce%20screenshots/overView.png" alt="OverView Screen" width="200"/>
+</div>
+
 <img src="e_commerce%20screenshots/chart.png" width="300">
 <img src="e_commerce%20screenshots/categoryList.png" width="100">
 
