@@ -2,13 +2,12 @@
 Simple E-Commerce Mobile Application Using flutter
 
 <div align="center">
-  <img src="e_commerce%20screenshots/overView.png" alt="OverView Screen" width="200"/>
+  <img src="e_commerce%20screenshots/overView.png" alt="OverView Screen"/>
 </div>
 
 <div align="center">
-  <img src="e_commerce%20screenshots/chart.png" alt="chart Screen" width="200"/>
+  <img src="e_commerce%20screenshots/chart.png" alt="chart Screen"/>
 </div>
-<img src="e_commerce%20screenshots/categoryList.png" width="100">
 
 ![OverView Screen](e_commerce%20screenshots/overView.png)
 ![Chart Screen](e_commerce%20screenshots/chart.jpg)
