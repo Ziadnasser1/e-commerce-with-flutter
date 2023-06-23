@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839963583112",
+    "project_id": "townteam-e6b72",
+    "storage_bucket": "townteam-e6b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839963583112:android:8094b9331a961d4c46b53d",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839963583112-fnvdul767hdqdsgkpoio1ve4pfvhugjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgzsOSLyFLiRD6AYE-IfRjG-BnL7B9yC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839963583112-fnvdul767hdqdsgkpoio1ve4pfvhugjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
